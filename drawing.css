@@ -1,0 +1,30 @@
+.img1{
+    background-image: url("img1.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+.img2{
+    background-image: url("img2.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+.img3{
+    background-image: url("img3.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+.img4{
+    background-image: url("img4.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
+.drawing{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+}

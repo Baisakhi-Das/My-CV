@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(188, 238, 226);
+}
+img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 90px;
+}
+a{
+    font-family:italic 1.2em "Fira Sans", serif;
+    font-weight: bold;
+    
+}
+p{
+    font-family: italic ;
+    font-size:17px;
+    font-weight: 500;
+}
+.id{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left:250px;
+    bottom: 200px;
+    display: inline;
+
+    
+}
+
+.career{
+    
+    position: relative;
+    bottom: 150px;
+}   
+.qualification{
+    position: relative;
+    bottom: 50px;
+}
+.box1{
+    background-color:#0E2954;
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+    
+}
+.box2{
+    background-color:#1F6E8C;
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+}
+.box3{
+    background-color: #2E8A99;
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+    
+}
+.box4{
+    background-color: rgb(77, 168, 171);
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+}
+.box5{
+    background-color:#84A7A1;
+    background-color: rgb(103, 170, 170);
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+    
+}
+.box6{
+    
+    background-color: rgb(125, 161, 161);
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+}
+.box7{
+    background-color:#84A7A1;
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: larger;
+}
+.box{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.leadership{
+    font-family: italic ;
+    font-size:19px;
+    font-weight: 500;
+}
